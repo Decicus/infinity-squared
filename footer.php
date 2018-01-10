@@ -11,6 +11,10 @@
 
 <footer class="content site-footer">
 	<p><?php yourls_e( 'Powered by <a href="http://yourls.org/">YOURLS</a>. Designed by <a href="http://tomslominski.net/">Tom Slominski</a>.', 'isq_translation') ?> <a class="icon-github" href="https://github.com/tomslominski/infinity-squared"><?php include('public/images/github.svg'); ?></a></p>
+	<p>Hosted and maintained by <a href="https://www.reddit.com/user/Decicus">/u/Decicus</a>. Website icon made by <a href="https://www.reddit.com/r/dogecoin/comments/1xiids/dogeurl_free_url_shortener/cfbmoru/">/u/macerz on /r/dogecoin</a></p>
+	<br>
+	<p>Support with Dogecoin: <a href="dogecoin:DUGEUrLDkCaixzdH1qXMUrKQhEishRmrzv">DUGEUrLDkCaixzdH1qXMUrKQhEishRmrzv</a></p>
+	<p>Contact email: <a href="mailto:admin@dogeurl.com">admin@dogeurl.com</a></p>
 	<?php if ( !empty(ISQ::$recaptcha['sitekey']) && !empty(ISQ::$recaptcha['secret']) ) { ?>
 		<p class="recaptcha-cookie"><?php yourls_e('This site uses cookies for Google reCAPTCHA','isq_translation')?>.<p>
 	<?php }; ?>
