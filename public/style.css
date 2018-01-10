@@ -79,6 +79,7 @@ a, a:visited {
 	width: 100%;
 	text-align: center;
 	background: #013F6D;
+	background-image: url('/public/images/banner.jpg');
 	border-top: 4px #000 solid;
 	transition: background 0.5s;
 }
