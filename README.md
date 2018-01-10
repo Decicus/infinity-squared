@@ -1,3 +1,6 @@
+# Note: This is a forked version used for DogeURL.
+This is mainly to keep track of, and maintain changes I'll use for [DogeURL](https://dogeurl.com/).
+
 Infinity Squared
 ================
 
