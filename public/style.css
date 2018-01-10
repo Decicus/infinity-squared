@@ -88,6 +88,7 @@ a, a:visited {
 	font-size: 4rem;
 	font-weight: bold;
 	color: white;
+	text-shadow: #000000 2px 2px 0;
 	margin: 0;
 }
 
@@ -98,6 +99,8 @@ a, a:visited {
 
 .site-title:hover {
 	background: #0D4B78;
+	background-image: url('/public/images/banner.jpg');
+	text-decoration: underline dotted #ffffff;
 }
 
 .menu {
